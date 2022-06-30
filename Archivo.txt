@@ -1,0 +1,16 @@
+[{
+  "nombre": "Lapicera",
+  "precio": 100,
+  "thumbnail": "./lapicera.jpg",
+  "id": 1
+},{
+  "nombre": "Goma",
+  "precio": 50,
+  "thumbnail": "./goma.jpg",
+  "id": 2
+},{
+  "nombre": "Tiza",
+  "precio": 100,
+  "thumbnail": "./tiza.jpg",
+  "id": 3
+}]
